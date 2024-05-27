@@ -19,10 +19,6 @@ variable "vms" {
   type = any
 }
 
-variable "nsgs" {
-  type = any
-}
-
 variable "remote_virtual_network_id" {
   type = string
   default = ""

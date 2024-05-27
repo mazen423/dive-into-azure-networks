@@ -116,3 +116,5 @@ nsgs = {
         }
     }
 }
+
+remote_virtual_network_id = ""
